@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[Engadget](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUk0TmlHRUg2VDdKY2hZcWZua19mZ0E4RFN0YUFFamVTb3pieFNmd0dkS0d1aTRZOWRqRm9lNTRtR2FqdUhIcU1EMXVhQkNJbGQyc1ktZE43bHg4MGlqU1l6NTA4Y1pnU2RtX2lNWldrUmlqTUlKSlNHWExNVlE4OUJEOA?oc=5)",
+    "[SearchEngineJournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[TestingCatalog.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN05nVDM5eGM5UE1TQnhlZFlVQVFkUVhUTVVHSm5KU3I5WC15Si1UUmQ5b0doMVRtUDloXzM2aEhhVGJFZk9hanZ5UEpPWFdtNFJZV1VxTjdTazBzdEIxTGc5cm1lNEdBSURxWlhtWG8zaDFQaTZ2enVhSWVXcDl6dUdLZHBSUUVxekE?oc=5)",
+    "[BWBusinessworld.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k2YWR0UUZValVWRTMybEFDOHptU3RETnFDOFJhaEV4VzlSQnlwZTRPUjFZcDFVLXR0NVlPNnF3ME1wTnhZQXJtcWt4WEoweFJKaG50ZG11bmVYMml6MV92RlluWW83UEJMUkIyWm1zTW5aUWRMQzQ5aG1CemNOSGp0M2QwTlhpOVVscENLOC16YVNSdFBYbUZodFBlLS1xZ05RR0tiLWl4dEpKQTVIQ1RGN290WEkybHZQN1NvdmJFUS1sTHc?oc=5)",
+    "[stablenumbers.com](https://stablenumbers.com/devtools/stylesheet-generator.php)"
+  ],
+  "design_plan": "rng=42; audience=Super vs Gemini evaluators; AIDA pass=yes; hero_lines=2-3 within 1120px; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=AA+ on paper/ink",
+  "generated_at": "2026-06-29T19:44:42.112610+00:00",
+  "headline": "Super vs Gemini: Computer\u2011Use Agents for Real Work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair, editorial comparison of Super and Google Gemini for people evaluating personal AI agents that can operate computers. Gemini has recently added agentic computer\u2011use across devices and platforms, while Super is purpose\u2011built for repeated computer\u2011use workflows with a reusable computer\u2011use cache that can lower the cost and friction of running the same tasks again and again. This page contrasts where each shines and why Super is the sharper alternative for hands\u2011on automation."
+}
